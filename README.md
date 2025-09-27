@@ -18,4 +18,4 @@ The quiz covers topics related to:
 - Open Deep Search (ODS)
 - Performance benchmarks and technical specifications
 
-ARE YOU READY FOR TESTING YOUR KNOWLEDGE, THEN START HERE : 
+##vARE YOU READY FOR TESTING YOUR KNOWLEDGE? THEN START HERE: https://sentient-quiz-app-bice.vercel.app/
